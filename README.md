@@ -1,7 +1,5 @@
 # #TreatYeeself
 
-
-
 ## Our Wedding Weekend
 We are excited to welcome you all to our fun-filled wedding weekend! Washington is our new home and we are looking forward to creating new memories with all of you.
 
@@ -30,11 +28,11 @@ Outdoor Activities, Wedding Ceremony and Reception
   <li>5pm: Wedding Ceremony begins! </li>
   <li>6pm: Cocktail Hour</li>
   <li>7pm: Dinner Reception</li>
-  <li>After ceremony-late: Photos, dinner, dancing, libations</li>
+  <li>After ceremony-late: Photos, dinner, dancing, libations </li>
 
 ### SUNDAY
 Early Brunch and Farewells
   <li>8-10am: (Early) Brunch </li>
   <li>11am: Check-Out time (There is no late check-out)</li>
 
-While not the only option, the recommended route is to take the Seattle-Bainbridge Island ferry. The directions below assume you will take the ferry route.
+<i>While not the only option, the recommended route is to take the Seattle-Bainbridge Island ferry. The directions below assume you will take the ferry route.
