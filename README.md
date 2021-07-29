@@ -35,4 +35,6 @@ Early Brunch and Farewells
   <li>8-10am: (Early) Brunch </li>
   <li>11am: Check-Out time (There is no late check-out)</li>
 
+<br>
+
 <i>While not the only option, the recommended route is to take the Seattle-Bainbridge Island ferry. The directions below assume you will take the ferry route.
