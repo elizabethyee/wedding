@@ -16,32 +16,25 @@ There are activities all weekend long on IslandWood’s campus. All are welcome 
 
 The general schedule is as follows:
 
-#### FRIDAY
-<h5>Welcome Dinner & S'mores Party</h1>
-<ul>
+### FRIDAY
+Welcome Dinner & S'mores Party
   <li>4pm: Earliest you can arrive at Islandwood for check-in </li>
   <li>6pm: Dinner. No dress code.</li>
   <li>8pm: Campfire s'mores and drinks</li>
-</ul>
 
-#### SATURDAY
-<h5>Outdoor Activities, Wedding Ceremony and Reception</h1>
-<ul>
-  <li>8-9:30am: Breakfast<li>
-  10am-3pm: Aforementioned shenanigans<li>
-  12:30-1:30pm: Lunch Picnic <li>
-  5pm: Wedding Ceremony begins! <li>
-  6pm: Cocktail Hour<li>
-  7pm: Dinner Reception<li>
-  After ceremony-late: Photos, dinner, dancing, libations...you know the drill!
-</ul>
+### SATURDAY
+Outdoor Activities, Wedding Ceremony and Reception
+<li>8-9:30am: Breakfast<li>
+10am-3pm: Aforementioned shenanigans</li>
+  <li>12:30-1:30pm: Lunch Picnic</li>
+  <li>5pm: Wedding Ceremony begins! </li>
+  <li>6pm: Cocktail Hour</li>
+  <li>7pm: Dinner Reception</li>
+  <li>After ceremony-late: Photos, dinner, dancing, libations</li>
 
-#### SUNDAY
-
-<h5>Early Brunch and Farewells</h1>
-<ul>
+### SUNDAY
+Early Brunch and Farewells
   <li>8-10am: (Early) Brunch </li>
   <li>11am: Check-Out time (There is no late check-out)</li>
-</ul>
 
 While not the only option, the recommended route is to take the Seattle-Bainbridge Island ferry. The directions below assume you will take the ferry route.
