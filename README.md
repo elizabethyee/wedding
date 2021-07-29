@@ -18,7 +18,6 @@ The general schedule is as follows:
 
 #### FRIDAY
 
-<!DOCTYPE html>
 <html>
 <body>
 <h5>Welcome Dinner & S'mores Party</h1>
@@ -32,7 +31,6 @@ The general schedule is as follows:
 
 #### SATURDAY
 
-<!DOCTYPE html>
 <html>
 <body>
 <h5>Outdoor Activities, Wedding Ceremony and Reception</h1>
@@ -50,7 +48,6 @@ The general schedule is as follows:
 
 #### SUNDAY
 
-<!DOCTYPE html>
 <html>
 <body>
 <h5>Early Brunch and Farewells</h1>
