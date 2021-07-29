@@ -30,6 +30,8 @@ Outdoor Activities, Wedding Ceremony and Reception
   <li>7pm: Dinner Reception</li>
   <li>After ceremony-late: Photos, dinner, dancing, libations </li>
 
+<br> 
+
 ### SUNDAY
 Early Brunch and Farewells
   <li>8-10am: (Early) Brunch </li>
