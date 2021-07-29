@@ -38,13 +38,13 @@ The general schedule is as follows:
 <h5>Outdoor Activities, Wedding Ceremony and Reception</h1>
 <ul>
   <li>8-9:30am: Breakfast<li>
-  9:30am-10am: Camp meeting in which the day’s shenanigans will be explained<li>
-  10am-3pm: Aforementioned shenanigans<li>
-  12:30-1:30pm: Lunch Picnic <li>
-  5pm: Wedding Ceremony begins! <li>
-  6pm: Cocktail Hour<li>
-  7pm: Dinner Reception<li>
-  After ceremony-late: Photos, dinner, dancing, libations...you know the drill!
+  <li>9:30am-10am: Camp meeting in which the day’s shenanigans will be explained<li>
+  <li>10am-3pm: Aforementioned shenanigans<li>
+  <li>12:30-1:30pm: Lunch Picnic <li>
+  <li>5pm: Wedding Ceremony begins! <li>
+  <li>6pm: Cocktail Hour<li>
+  <li>7pm: Dinner Reception<li>
+  <li>After ceremony-late: Photos, dinner, dancing, libations...you know the drill!</li>
 </ul>
 </body>
 </html>
